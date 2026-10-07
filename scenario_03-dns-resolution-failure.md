@@ -1,4 +1,4 @@
-# Scenario 03 — DNS Resolution Failure
+# Scenario 03 - DNS Resolution Failure
 
 ## Reported Problem
 While testing DNS resolution in the Windows 11 client, `nslookup` reported DNS request timeouts when querying the `LAB.local` domain.
