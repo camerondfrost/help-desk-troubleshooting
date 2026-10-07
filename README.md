@@ -29,7 +29,7 @@ For network-related issues, the OSI model may be used as a framework for identif
 | [04 — No Internet Connectivity](./scenario_04-no-internet-connectivity.md)      | Network troubleshooting, IP addressing, gateway testing, traceroute, escalation  |
 | [05 — Locked Active Directory Account](./scenario_05-locked-active-directory-account.md)          | Active Directory, account troubleshooting, identity verification, account unlock |
 | [06 — Shared Folder Access](./scenario_06-shared-folder-access.md)                     | Active Directory, security groups, NTFS permissions, share permissions           |
-| [07 — Expired Active Directory Password](./scenario_07-incorrect-password-login.md) | Active Directory, account status, password troubleshooting, user verification    |
+| [07 — Expired Active Directory Password](./scenario_07-expired-active-directory-password.md) | Active Directory, account status, password troubleshooting, user verification    |
 | [08 — Network Printer Showing Offline](./scenario_08-printer-not-printing.md)              | Printer troubleshooting, network connectivity, TCP/IP ports, DHCP                |
 
 ## Environment
