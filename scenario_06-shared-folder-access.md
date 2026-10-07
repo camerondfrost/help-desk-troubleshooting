@@ -1,4 +1,4 @@
-# Scenario 06 — Shared Folder Access
+# Scenario 06 - Shared Folder Access
 
 ## Reported Problem
 A user reported that they could not access the HR shared folder and received an **Access Denied** message.
