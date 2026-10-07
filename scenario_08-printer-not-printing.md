@@ -1,4 +1,4 @@
-# Scenario 08 — Network Printer Showing Offline
+# Scenario 08 - Network Printer Showing Offline
 
 ## Reported Problem
 A user reported that their network printer was showing as **Offline** and they were unable to print. The printer had been working earlier in the day.
