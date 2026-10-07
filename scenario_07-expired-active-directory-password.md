@@ -1,4 +1,4 @@
-# Scenario 07 — Expired Active Directory Password
+# Scenario 07 - Expired Active Directory Password
 
 ## Reported Problem
 A Sales user reported that they could not log in to their Windows workstation because Windows reported that their password was incorrect.
