@@ -1,4 +1,4 @@
-# Scenario 05 — Locked Active Directory Account
+# Scenario 05 - Locked Active Directory Account
 
 ## Reported Problem
 A user reported that they could not log in to their computer because their account was locked.
