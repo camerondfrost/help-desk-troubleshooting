@@ -25,12 +25,12 @@ For network-related issues, the OSI model may be used as a framework for identif
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | [01 — Windows 11 VM Black Screen](./scenario_01-windows_11-vm-black-screen.md)            | Windows troubleshooting, VirtualBox, configuration analysis, hypothesis testing  |
 | [02 — Domain Join Failure](./scenario_02-domain-join-failure.md)                          | Windows troubleshooting, networking, VirtualBox, domain joining, OSI model       |
-| [03 — DNS Resolution Failure](./scenario_03%20-%20DNS%20Resolution%20Failure.md)          | DNS troubleshooting, Windows networking, service verification, OSI model         |
-| [04 — No Internet Connectivity](./scenario_04%20-%20No%20Internet%20Connectivity.md)      | Network troubleshooting, IP addressing, gateway testing, traceroute, escalation  |
-| [05 — Locked Active Directory Account](./scenario_05%20-%20Locked-AD-account.md)          | Active Directory, account troubleshooting, identity verification, account unlock |
-| [06 — Shared Folder Access](./scenario_06%20-shared-folder-access.md)                     | Active Directory, security groups, NTFS permissions, share permissions           |
-| [07 — Expired Active Directory Password](./scenario_07%20-%20incorrect-password-login.md) | Active Directory, account status, password troubleshooting, user verification    |
-| [08 — Network Printer Showing Offline](./senario_08-printer-not-printing.md)              | Printer troubleshooting, network connectivity, TCP/IP ports, DHCP                |
+| [03 — DNS Resolution Failure](./scenario_03-dns-resolution-failure.md)          | DNS troubleshooting, Windows networking, service verification, OSI model         |
+| [04 — No Internet Connectivity](./scenario_04-no-internet-connectivity.md)      | Network troubleshooting, IP addressing, gateway testing, traceroute, escalation  |
+| [05 — Locked Active Directory Account](./scenario_05-locked-active-directory-account.md)          | Active Directory, account troubleshooting, identity verification, account unlock |
+| [06 — Shared Folder Access](./scenario_06-shared-folder-access.md)                     | Active Directory, security groups, NTFS permissions, share permissions           |
+| [07 — Expired Active Directory Password](./scenario_07-incorrect-password-login.md) | Active Directory, account status, password troubleshooting, user verification    |
+| [08 — Network Printer Showing Offline](./scenario_08-printer-not-printing.md)              | Printer troubleshooting, network connectivity, TCP/IP ports, DHCP                |
 
 ## Environment
 * Windows 11 client
