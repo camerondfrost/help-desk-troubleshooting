@@ -1,4 +1,4 @@
-# Scenario 04 — No Internet Connectivity
+# Scenario 04 - No Internet Connectivity
 
 ## Reported Problem
 A user reported that they could not access the Internet and that websites were not loading.
