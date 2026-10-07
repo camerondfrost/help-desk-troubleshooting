@@ -1,4 +1,4 @@
-# Scenario 01 — Windows 11 VM Black Screen
+# Scenario 01 - Windows 11 VM Black Screen
 
 ## Reported Problem
 While setting up the Windows 11 client virtual machine in VirtualBox, the VM started but the display remained small and black instead of displaying the expected Windows setup normally.
